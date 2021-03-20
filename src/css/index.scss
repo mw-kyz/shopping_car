@@ -1,0 +1,9 @@
+@import url('common.scss');
+// @import 'common.scss';这么写也可以
+
+.list-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: .44rem;
+}
